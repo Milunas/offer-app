@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/offer-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/offer-app/static/js/main.958422b7.chunk.js",
-    "main.js.map": "/offer-app/static/js/main.958422b7.chunk.js.map",
+    "main.css": "/offer-app/static/css/main.17248b8a.chunk.css",
+    "main.js": "/offer-app/static/js/main.f02a2118.chunk.js",
+    "main.js.map": "/offer-app/static/js/main.f02a2118.chunk.js.map",
     "runtime-main.js": "/offer-app/static/js/runtime-main.b14e0920.js",
     "runtime-main.js.map": "/offer-app/static/js/runtime-main.b14e0920.js.map",
     "static/js/2.91684118.chunk.js": "/offer-app/static/js/2.91684118.chunk.js",
@@ -10,14 +10,13 @@
     "static/js/3.8500bd9a.chunk.js": "/offer-app/static/js/3.8500bd9a.chunk.js",
     "static/js/3.8500bd9a.chunk.js.map": "/offer-app/static/js/3.8500bd9a.chunk.js.map",
     "index.html": "/offer-app/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/offer-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.91684118.chunk.js.LICENSE.txt": "/offer-app/static/js/2.91684118.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/offer-app/static/media/logo.6ce24c58.svg"
+    "static/css/main.17248b8a.chunk.css.map": "/offer-app/static/css/main.17248b8a.chunk.css.map",
+    "static/js/2.91684118.chunk.js.LICENSE.txt": "/offer-app/static/js/2.91684118.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b14e0920.js",
     "static/js/2.91684118.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.958422b7.chunk.js"
+    "static/css/main.17248b8a.chunk.css",
+    "static/js/main.f02a2118.chunk.js"
   ]
 }
